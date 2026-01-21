@@ -5,9 +5,8 @@ This repo is a fork of BookPlayer (iOS audiobook player).
 ## Goal (this fork)
 - Personal, local-only experimentation.
 - Keep changes isolated and easy to revert.
+- Track the release for the upstram and minimize the confliects.
 
-## Non-goals
-- Do not add features intended for App Store submission.
 
 ## Project layout (high-level)
 - `BookPlayer/`: iOS app UI + screens.
